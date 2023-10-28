@@ -26,7 +26,8 @@ Alternatively, you can use Get-Specs to gather similar information.
 
 You can download Get-Specs [here](https://github.com/r-Techsupport/Get-Specs/releases/latest/download/Get-Specs.zip). Temperatures are listed in the "Hardware Basics" section of the report.
 
-> ℹ️ **For more information on how to use Specify and Get-Specs, please see our guide on [making a system dossier](docs/guides/making-a-system-dossier.md).**
+{: .info .info-icon }
+> **For more information on how to use Specify and Get-Specs, please see our guide on [making a system dossier](docs/guides/making-a-system-dossier.md).**
 
 ## Ryzen Master
 The go-to for ensuring you get proper temperature readings for your Ryzen CPU. If other tools show the same temperature you can assume they are accurate.
