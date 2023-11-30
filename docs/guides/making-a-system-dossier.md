@@ -28,6 +28,7 @@ Links are automatically deleted after 24 hours. You can choose to redact your us
 
 {: .info .info-icon }
 > If you receive a "Windows protected your PC" pop up, click `More info` then `Run anyway`.
+>
 > 📶 For machines without internet access, select the "Don't Upload" option. Upload `specify_specs.json` to the [official website](https://spec-ify.com/) to generate a report.
 
 ### Get-Specs
